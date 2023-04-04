@@ -1,0 +1,15 @@
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\bin\Debug\net6.0\Task 1.exe
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\bin\Debug\net6.0\Task 1.deps.json
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\bin\Debug\net6.0\Task 1.runtimeconfig.json
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\bin\Debug\net6.0\Task 1.dll
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\bin\Debug\net6.0\Task 1.pdb
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\obj\Debug\net6.0\Task 1.csproj.AssemblyReference.cache
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\obj\Debug\net6.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfoInputs.cache
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfo.cs
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\obj\Debug\net6.0\Task 1.csproj.CoreCompileInputs.cache
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\obj\Debug\net6.0\Task 1.dll
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\obj\Debug\net6.0\refint\Task 1.dll
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\obj\Debug\net6.0\Task 1.pdb
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\obj\Debug\net6.0\Task 1.genruntimeconfig.cache
+O:\Обучение GeeksBrains\less 3\gb_23.03\Less 3\Task 1\obj\Debug\net6.0\ref\Task 1.dll
