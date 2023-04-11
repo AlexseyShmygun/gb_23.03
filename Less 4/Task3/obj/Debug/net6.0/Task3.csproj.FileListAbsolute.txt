@@ -1,0 +1,15 @@
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\bin\Debug\net6.0\Task3.exe
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\bin\Debug\net6.0\Task3.deps.json
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\bin\Debug\net6.0\Task3.dll
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\bin\Debug\net6.0\Task3.pdb
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\obj\Debug\net6.0\Task3.dll
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\obj\Debug\net6.0\refint\Task3.dll
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\obj\Debug\net6.0\Task3.pdb
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+O:\Обучение GeeksBrains\DZ\Less 4\Task3\obj\Debug\net6.0\ref\Task3.dll
